@@ -19,9 +19,6 @@ import random
 #         - API: Add Tracks to a Playlist
 #         - Scope: playlist-modify-public
 
-client_id = "52a54fcd76944df9b560435d1ceb4f37"
-client_secret = "ccbb20f5c45f4122a693594a69419647"
-redirect_uri = "https://www.google.com/"
 
 scope = 'user-library-read user-top-read playlist-modify-public user-follow-read'
 
